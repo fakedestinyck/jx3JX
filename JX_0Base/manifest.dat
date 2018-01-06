@@ -1,0 +1,54 @@
+{
+   "files" : [
+      {
+         "name" : "info.ini",
+         "value" : "5D20DAEDB922DF40C1A0BB5FA0104F43ECE46149"
+      },
+      {
+         "name" : "JX.Debug.lua",
+         "value" : "49598F796371EFF4E148845DEB6CB9B01D3F4F1A"
+      },
+      {
+         "name" : "JX.ini",
+         "value" : "AEFF6B1B71E4A4EA3AFB82961BD2477D9F32D81B"
+      },
+      {
+         "name" : "JX.lua",
+         "value" : "CC230439D6A2513BE449459A9089F80084EA10A8"
+      },
+      {
+         "name" : "JX.UI.lua",
+         "value" : "FA7A580F90459DA6A4CEBF5C3C4595B1E110AFF4"
+      },
+      {
+         "name" : "JX.XGUI.lua",
+         "value" : "D2A3EA3218854B9D8142B1B258C2D00A42DBDDCF"
+      },
+      {
+         "name" : "lang/zhcn.lang",
+         "value" : "2A6D0F831419E5EC6418F5D71AFDC3AC8EAB80A2"
+      },
+      {
+         "name" : "lang/zhtw.lang",
+         "value" : "1DE2C2ABC518C73E91B8C86A9851E5CB492681E8"
+      },
+      {
+         "name" : "publisher.key",
+         "value" : "9C7256C725D84CBF8CDF9D6200156A4785595362"
+      },
+      {
+         "name" : "ui/FullScreen.ini",
+         "value" : "0FF173A83A3AA46C42EB688EBC37940CBBA5F231"
+      },
+      {
+         "name" : "ui/WndScrollPanel.ini",
+         "value" : "720A0DA6FA8000D20D20125A3797151840FAE1AB"
+      },
+      {
+         "name" : "__XGUI.ini",
+         "value" : "D6E9C204288AD83056FA0F0B2CD4E9E4F41D18FC"
+      }
+   ],
+   "id" : "JX_0Base",
+   "version" : 18
+}

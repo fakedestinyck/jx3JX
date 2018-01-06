@@ -1,0 +1,22 @@
+{
+   "files" : [
+      {
+         "name" : "info.ini",
+         "value" : "A169F907DFAA993EB2BBE2F162174CAAD9C95E57"
+      },
+      {
+         "name" : "JX_TargetList.ini",
+         "value" : "FC99532DDDB31556BA05935F902C3B1421310CE4"
+      },
+      {
+         "name" : "JX_TargetList.lua",
+         "value" : "0E08AA9604C2A297E1A62D2F896CD0D5FEC62B4C"
+      },
+      {
+         "name" : "publisher.key",
+         "value" : "AD08B3A45BEE055CE06525BEB3EEBFC87D690A2C"
+      }
+   ],
+   "id" : "JX_TargetList",
+   "version" : 17
+}

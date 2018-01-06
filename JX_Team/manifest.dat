@@ -1,0 +1,26 @@
+{
+   "files" : [
+      {
+         "name" : "info.ini",
+         "value" : "2DBB761F320F71FF1B1345629CDFE7ADD6A73413"
+      },
+      {
+         "name" : "JX_FastMarker.ini",
+         "value" : "3565127B7CC8C01C2E8FAB7DEA7FD2194460CD69"
+      },
+      {
+         "name" : "JX_FastMarker.lua",
+         "value" : "4F2EB526917E46CF72DA3A49A585966DEC657758"
+      },
+      {
+         "name" : "JX_Team.lua",
+         "value" : "29EB237C9D382C0718CBC6817AC4A7F7821019E4"
+      },
+      {
+         "name" : "publisher.key",
+         "value" : "6C2BC9D96A6CCFF3C82B0AB89B7135280F40805F"
+      }
+   ],
+   "id" : "JX_Team",
+   "version" : 11
+}

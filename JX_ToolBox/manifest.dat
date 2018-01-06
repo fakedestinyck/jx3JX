@@ -1,0 +1,38 @@
+{
+   "files" : [
+      {
+         "name" : "ComboWinEffect.ini",
+         "value" : "E50AF377A463555438BA4A2C983BC4CBA44E77E1"
+      },
+      {
+         "name" : "info.ini",
+         "value" : "51AAD96DFB0C7DDD3FC7D3F3E8330727D5FF2865"
+      },
+      {
+         "name" : "JX_Equip.ini",
+         "value" : "A1CCE4005E265698036C9D060C263128ACD3D0D2"
+      },
+      {
+         "name" : "JX_Equip.lua",
+         "value" : "2B7441C7D2CB8041BFDCA73627CFAADE9150AE89"
+      },
+      {
+         "name" : "JX_FlashTaskBar.lua",
+         "value" : "EA820F4DB17C6A6E0FF133761324868FA50F063E"
+      },
+      {
+         "name" : "JX_RefineDiamond.lua",
+         "value" : "62DC73F7D4AD326A15ED7587BDFDD030996BC912"
+      },
+      {
+         "name" : "JX_ToolBox.lua",
+         "value" : "7DF5DCEEA8B9D79449FDC5B79B35B59917899C59"
+      },
+      {
+         "name" : "publisher.key",
+         "value" : "8CB35F91C841BEC6DC8CAD73AB8E9BD1ACAF71AF"
+      }
+   ],
+   "id" : "JX_ToolBox",
+   "version" : 15
+}

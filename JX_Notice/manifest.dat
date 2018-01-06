@@ -1,0 +1,38 @@
+{
+   "files" : [
+      {
+         "name" : "info.ini",
+         "value" : "48785512D2AEDBBC8CD196AA8B96A6F423C698A4"
+      },
+      {
+         "name" : "JX_KillNotice.lua",
+         "value" : "250D6485F26C675BFAB38321FEFF0AE259C77AA2"
+      },
+      {
+         "name" : "JX_OtherNotice.lua",
+         "value" : "F3E6E25A9598F3A3BF859EB815A6A07E7A87DFDA"
+      },
+      {
+         "name" : "JX_SkillNotice.lua",
+         "value" : "694B99ACB94ECE2AE1531C753AF7D986A6C88F22"
+      },
+      {
+         "name" : "KillShoutSet.ini",
+         "value" : "C3C7200A88D4B5D2313A49C750EA89AF3F6465C1"
+      },
+      {
+         "name" : "OtherShoutSet.ini",
+         "value" : "3D49976041CC6D0D162CDB037D2AAC5443BC377C"
+      },
+      {
+         "name" : "publisher.key",
+         "value" : "BC62CB6C529FE834FC0AEACFF528F3496F02F003"
+      },
+      {
+         "name" : "SkillShout.ini",
+         "value" : "1438D9F266F6FE66EA80E7EA7CAE246EC2369ABE"
+      }
+   ],
+   "id" : "JX_Notice",
+   "version" : 15
+}

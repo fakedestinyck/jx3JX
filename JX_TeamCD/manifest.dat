@@ -1,0 +1,30 @@
+{
+   "files" : [
+      {
+         "name" : "info.ini",
+         "value" : "9187CE2A43CDCA0B88B5240A216C08BEC02AECEF"
+      },
+      {
+         "name" : "JX_TeamCD.lua",
+         "value" : "4AF2F10F3279A6183BAAF17AB727D2280D4FC544"
+      },
+      {
+         "name" : "publisher.key",
+         "value" : "1F356E9BA29F4ABA0BF8D05CA76DB2377359F904"
+      },
+      {
+         "name" : "TeamCDAdd.ini",
+         "value" : "C6CF48675C16B86DBB870AAB875E5B74B46A31D0"
+      },
+      {
+         "name" : "TeamCDTemp.ini",
+         "value" : "E6B405FA5D81ECCCA5CB0DB767DD39B8E4C19B2D"
+      },
+      {
+         "name" : "TeamCoolDown.ini",
+         "value" : "96117078F2344FA92E28474456CCBA53F6AC070E"
+      }
+   ],
+   "id" : "JX_TeamCD",
+   "version" : 3
+}

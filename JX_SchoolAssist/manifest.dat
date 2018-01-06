@@ -1,0 +1,34 @@
+{
+   "files" : [
+      {
+         "name" : "bufftype_info.db",
+         "value" : "BC11E862FC57844729023AC8E88B70412946700F"
+      },
+      {
+         "name" : "info.ini",
+         "value" : "4709AA5CD22183262D1C498E2343547FC2F700B7"
+      },
+      {
+         "name" : "JX_SchoolAssist.ini",
+         "value" : "DD9D6206AE4ABF4AB2F48CABEAD4DEF15DDE871F"
+      },
+      {
+         "name" : "JX_SchoolAssist.lua",
+         "value" : "A266212C4F4F67CBE737C605D84D01DA17F82F0D"
+      },
+      {
+         "name" : "JX_Shadows.ini",
+         "value" : "AAF13ABD83C949843B6580A79905C4FB9FD7F3E2"
+      },
+      {
+         "name" : "JX_Shadows.lua",
+         "value" : "73B97F6632D0F1BBCF75FD605849A38F1BCA2916"
+      },
+      {
+         "name" : "publisher.key",
+         "value" : "067B572A357BEB9F9D69C4D0F5292E41059FB9D3"
+      }
+   ],
+   "id" : "JX_SchoolAssist",
+   "version" : 17
+}
